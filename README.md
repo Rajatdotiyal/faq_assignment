@@ -1,4 +1,4 @@
-# Multilingual FAQ System
+FAQ System
 
 A dynamic FAQ system built with Node.js and Express.js that supports multiple languages using Google Translate API and Redis for caching.
 
